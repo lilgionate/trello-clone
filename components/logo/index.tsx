@@ -20,7 +20,7 @@ const Logo = () => {
         <p
           className={cn("text-lg text-neutral-700 pb-1", headingFont.className)}
         >
-          Dada<span>Rello</span>
+          Task<span>Flow</span>
         </p>
       </div>
     </Link>

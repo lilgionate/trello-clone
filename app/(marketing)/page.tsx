@@ -26,7 +26,7 @@ const MarketingPage = () => {
           No 1 task management
         </div>
         <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-          Dada<span className="text-amber-700">Rello</span> helps team move
+          Task<span className="text-amber-700">Flow</span> helps team move
         </h1>
         <div className="text-3xl md:text-6xl text-center bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 p-2 rounded-md pb-4 w-fit">
           work forward.
@@ -40,10 +40,10 @@ const MarketingPage = () => {
       >
         Collaborate, manage projects, and reach new productivity peaks. From
         high rises to the home office, the way your team works is unique -
-        accomplish it all with Dadarello
+        accomplish it all with TaskFlow
       </div>
       <Button className="mt-6" size={"lg"} asChild>
-        <Link href={"/sign-up"}>Get DadaRello for free</Link>
+        <Link href={"/sign-up"}>Get TaskFlow for free</Link>
       </Button>
     </div>
   );
