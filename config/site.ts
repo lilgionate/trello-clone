@@ -1,4 +1,4 @@
 export const siteConfig = {
-  name: "DadaRello",
+  name: "TaskFlow",
   description: "Collaborate, manage projects, and reach new productivity.",
 };
