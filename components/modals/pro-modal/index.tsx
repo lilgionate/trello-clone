@@ -32,10 +32,10 @@ const ProModal = () => {
         </div>
         <div className="text-neutral-700 mx-auto space-y-6 p-6">
           <h2 className="font-semibold text-xl">
-            Upgrade to DadaRello Pro Today!
+            Upgrade to TaskFlow Pro Today!
           </h2>
           <p className="text-xs font-semibold text-neutral-600">
-            Explore the best of DadaRello
+            Explore the best of TaskFlow
           </p>
           <div className="pl-3">
             <ul className="text-sm list-disc">
